@@ -1,0 +1,9 @@
+Nothing incredibly complex about this program.
+It's a very generic text editor, It only opens and saves .txt documents.
+In this folder is a Test Document you can use to test the opening and saving functions.
+When you start the program you can either click on the center of the window to start typing
+or you can go up to the top bar where it says "File".
+It's a button that opens up a list of options for either creating a new file, saving a current one
+or opening a different file.
+
+Heck you can even use this file as a test file.
